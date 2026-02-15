@@ -178,7 +178,7 @@ streamlit run app.py
 ## Links
 
 - **GitHub Repository:** [https://github.com/sravanibits/bits-ml-assignment2](https://github.com/sravanibits/bits-ml-assignment2)
-- **Live Streamlit App:** *(Add deployed URL here after deployment)*
+- **Live Streamlit App:** [https://bits-ml-assignment-2-sravani.streamlit.app/](https://bits-ml-assignment-2-sravani.streamlit.app/)
 
 ---
 
